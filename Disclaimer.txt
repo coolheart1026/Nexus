@@ -1,0 +1,23 @@
+DISCLAIMER
+
+1. No Warranty:
+   This software is provided "as-is", without any express or implied warranty. 
+   The author(s) (Cool Heart / 零下冰心) shall not be held liable for any damages arising from the use of this software.
+
+2. Use at Your Own Risk:
+   You assume all responsibility and risk for the use of this software. 
+   The author(s) (Cool Heart / 零下冰心) are not responsible for any loss, corruption, or damage to data or hardware.
+
+3. Third-Party Libraries:
+   This software may include third-party libraries. Please review their respective licenses 
+   before use. The author(s) (Cool Heart / 零下冰心) do not claim ownership of any third-party components.
+
+4. Compliance:
+   You are responsible for ensuring that your use of this software complies with all local, 
+   state, and national laws, as well as regulations in your jurisdiction.
+
+5. Modifications:
+   Any modifications you make to the software are done at your own risk, and the original 
+   authors (Cool Heart / 零下冰心) are not responsible for any consequences resulting from modified versions.
+
+By using this software, you acknowledge that you have read, understood, and agreed to this disclaimer.
