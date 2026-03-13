@@ -14,7 +14,7 @@ Clipboard Detection Mode:
 
 2. Choose the save location.
 
-3. After clicking "Start Download", copy the number in the format "#123456" for automatic download; a real-time loading bar will appear.
+3. Copy the number in the format "#123456" for automatic download; a real-time loading bar will appear.
 
 To_PDF_Converter is an image conversion program (you can copy and paste it to the desired location). It reads images from all folders at the same level (only the next level) and merges them together according to the image names, converting them to PDF format. It only supports "jpg", ".jpeg", ".png", ".webp", ".bmp", ".tiff", ".tif", and ".gif" formats.
 
